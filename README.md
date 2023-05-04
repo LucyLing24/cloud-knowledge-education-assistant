@@ -1,2 +1,9 @@
 ﻿# cloud-knowledge-education-assistant
-<img width="853" alt="image" src="https://user-images.githubusercontent.com/56916034/236300868-8ae906f5-3146-46f7-b781-9409d37b4930.png">
+ 
+ <iframe height=498 width=510 src="视频地址">
+ 
+![幻灯片1](https://user-images.githubusercontent.com/56916034/236301271-7e42baf8-e47d-4465-8a64-ebb48fd3b557.PNG)
+![幻灯片3](https://user-images.githubusercontent.com/56916034/236301375-d6759a84-8d06-4ab2-9e88-ce15bf84e61c.PNG)
+![幻灯片11](https://user-images.githubusercontent.com/56916034/236301520-3c386940-c02c-4246-8003-8c54797b16aa.PNG)
+![幻灯片12](https://user-images.githubusercontent.com/56916034/236301558-5b39edb8-0de1-43c2-a7f7-fbebdfcaecfb.PNG)
+![幻灯片13](https://user-images.githubusercontent.com/56916034/236301595-5c1b6fc2-ce0f-4784-9d37-0b264e0870b6.PNG)
