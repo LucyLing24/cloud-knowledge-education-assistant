@@ -1,0 +1,49 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+  padding-bottom: 5px;
+}
+
+.images{
+  height: 25px;
+  width: 25px;
+  margin-left: 22px;
+  margin-top: 8px;
+}
+
+.item2{
+  height: 40px;
+  width: 100%;
+  border: solid;
+  border-right-color:whitesmoke;
+  border-top-color:whitesmoke;
+  border-left-color: whitesmoke;
+  border-bottom-color: white;
+  border-width: 2px;
+  background-color:whitesmoke;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+}
+
+.item-texts{
+   font-size: 14px;
+   margin-top: 10px;
+    margin-left: 20px;
+    width: 80px;
+}
+
+.message-images{
+  height: 30px;
+  width: 30px;
+  margin-left:170px;
+  margin-top: 8px;
+}
+
+
+
+
+

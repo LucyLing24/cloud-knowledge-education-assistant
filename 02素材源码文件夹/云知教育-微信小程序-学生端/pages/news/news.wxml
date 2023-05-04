@@ -1,0 +1,26 @@
+
+  <view class='top'>
+    <swiper class="swiper" indicator-dots="true" autoplay="true" interval="5000" duration="1000">   
+      <block wx:for="{{movies}}" wx:for-index="index">    
+        <swiper-item>
+          <image src="/images/show1.jpg" class="slide-image" mode="aspectFill"/>        
+        </swiper-item>    
+      </block>    
+    </swiper>    
+  </view>
+
+<view class='selection'>
+    <view class='item'>
+       <image src='/images/shoucang.png' class='images2' />
+        <image src='/images/download.png' class='images3' />
+           <image src='/images/web.png' class='images4' />
+    </view>
+
+    <view class='item1'>
+        <view class='text1'>我的收藏</view>
+         <view class='text2'>我的下载</view>
+          <view class='text3'>我的浏览</view>
+    </view>
+</view>
+
+<image src='/images/xinwen1.png' class='images1' />

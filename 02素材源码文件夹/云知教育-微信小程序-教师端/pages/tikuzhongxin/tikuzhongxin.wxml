@@ -1,0 +1,49 @@
+<view class='contanier'>
+
+
+  <view class='section'>
+    <view class='item-1'>
+      <text style='margin-left:5px;margin-left:5px;font-size:15px;'>题目内容...</text>
+      <view style='display:flex;justify-content:center;margin-top:50px;'>
+        <text style='margin-left:5px;margin-left:5px;font-size:15px;'>A.选项</text>
+        <text style='margin-left:5px;margin-left:5px;font-size:15px;'>B.选项</text>
+        <text style='margin-left:5px;margin-left:5px;font-size:15px;'>C.选项</text>
+        <text style='margin-left:5px;margin-left:5px;font-size:15px;'>D.选项</text>
+      </view>
+    </view>
+    <view class='item-2'>
+      <view class='xuanxiang' bindtap='Xuanxiang1Cilck'>
+        <text style='margin-left:20px;'>A</text>
+        <view class='line'></view>
+      </view>
+      <view class='xuanxiang' bindtap='Xuanxiang2Cilck'>
+        <text style='margin-left:20px;'>B</text>
+        <view class='line'></view>
+      </view>
+      <view class='xuanxiang' bindtap='Xuanxiang3Cilck'>
+        <text style='margin-left:20px;'>C</text>
+        <view class='line'></view>
+      </view>
+      <view class='xuanxiang' bindtap='Xuanxiang4Cilck'>
+        <text style='margin-left:5px;'>D</text>
+      </view>
+    </view>
+    <view class='item-3'>
+      <view  class='chakan' wx:for="{{list}}" wx:key="content" wx:for-index="key">
+        <view data-index='{{key}}' bindtap='hiddenBtn'>
+          <label style='margin-left:30px;font-size:15px;'>查看解析</label>
+        </view>
+        <view hidden='{{item.hidden}}'>
+          <view class='content'>
+            <label>相关解析...</label>
+          </view>
+        </view>
+      </view>
+      <view class='shoucang' bindtap='ShoucangClick'>
+        <text style='margin-left:50px;font-size:15px;'>收藏</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+

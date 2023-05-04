@@ -1,0 +1,22 @@
+<view class="container">
+    <view class='item1' bindtap='createitem'>
+      <image src='/images/messages.png' class='images'/>
+       <text class="item-texts">消息通知</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    <view class='item2' bindtap='kechenganpai'>
+      <image src='/images/kechenganpai.png' class='images2' />
+       <text class="item-texts2">课程安排</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    <view class='item3' bindtap='taolunxiaozu'>
+      <image src='/images/group.png' class='images3' />
+       <text class="item-texts">讨论小组</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+
+
+</view>

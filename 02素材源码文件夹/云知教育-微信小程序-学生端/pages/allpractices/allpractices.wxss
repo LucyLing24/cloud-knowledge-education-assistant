@@ -1,0 +1,59 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 10px;
+}
+
+.selection{
+  height: 120px;
+  width: 280px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.item{
+  height: 50px;
+  width: 280px;
+  background-color: white;
+}
+
+.text{
+  height: 40px;
+  width: 260px;
+  font-size: 14px;
+  margin-left:5px;
+}
+
+.item2{
+  height: 20px;
+  width: 280px;
+  background-color: white;
+}
+
+.text2{
+  height: 40px;
+  width: 260px;
+  font-size: 12px;
+  margin-left:20px;
+}
+
+.item1{
+  height: 50px;
+  width: 278px;
+  border: solid;
+  border-bottom-color: white;
+  border-top-color: gray;
+  border-left-color: white;
+  border-right-color: white;
+  border-width: 1px;
+}
+
+.text1{
+  height: 40px;
+  width: 260px;
+  font-size: 12px;
+  margin-left:5px;
+  color: gray;
+  margin-top: 10px;
+}

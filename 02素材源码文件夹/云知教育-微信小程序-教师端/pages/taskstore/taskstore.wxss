@@ -1,0 +1,17 @@
+Page{
+  background-color: #eee;
+}
+
+.line-0{
+    height: 5px;
+    background: #ccffff;    
+}
+
+.section{
+  background-color:#ffffff;
+  padding:5px;
+  border-radius: 10px;
+  border-color: #b8b8b8;
+  border-width: 3px;
+}
+

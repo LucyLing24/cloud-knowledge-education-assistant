@@ -1,0 +1,25 @@
+<view class="table">
+  <view class="tr bg-w">
+    <view class="th">学号</view>
+    <view class="th ">姓名</view>
+    <view class="th ">平时</view>
+    <view class="th ">期中</view>
+    <view class="th ">期末</view>
+  </view>
+  <block wx:for="{{listData}}" wx:key="{{code}}">
+    <view class="tr bg-g" wx:if="{{index % 2 == 0}}">
+      <view class="td">{{item.code}}</view>
+      <view class="td">{{item.text}}</view>
+      <view class="td">{{item.grade0}}</view>
+      <view class="td">{{item.grade1}}</view>
+      <view class="td">{{item.grade2}}</view>
+    </view>
+    <view class="tr" wx:else>
+      <view class="td">{{item.code}}</view>
+      <view class="td">{{item.text}}</view>
+      <view class="td">{{item.grade0}}</view>
+      <view class="td">{{item.grade1}}</view>
+      <view class="td">{{item.grade2}}</view>
+    </view>
+  </block>
+</view>

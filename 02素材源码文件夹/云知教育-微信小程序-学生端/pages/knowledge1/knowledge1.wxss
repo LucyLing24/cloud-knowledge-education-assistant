@@ -1,0 +1,51 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 10px;
+}
+
+.selection{
+  height: 110px;
+  width: 280px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.item{
+  height: 30px;
+  width: 278px;
+  border: solid;
+  border-color: gray;
+  border-width: 1px;
+  display: flex;
+  justify-content: center;
+}
+
+.text{
+  height: 30px;
+  width: 225px;
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+.images{
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+}
+
+.item-message{
+  height: 80px;
+  width: 280px;
+  padding-top: 5px;
+}
+
+.text1{
+  height: 60px;
+  width: 260px;
+  font-size: 12px;
+  color: gray;
+  margin-left: 10px;
+}
+

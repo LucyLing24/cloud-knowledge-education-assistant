@@ -1,0 +1,22 @@
+<view class="container">
+    <view class='item1' bindtap='createitem'>
+      <image src='/images/group.png' class='images'/>
+       <text class="item-texts">小组一</text>
+       
+    </view>
+
+    <view class='item2'>
+      <image src='/images/group.png' class='images2' />
+       <text class="item-texts2">小组二</text>
+   
+    </view>
+
+    <view class='item3'>
+      <image src='/images/group.png' class='images3' />
+       <text class="item-texts">小组三</text>
+    
+    </view>
+
+
+
+</view>

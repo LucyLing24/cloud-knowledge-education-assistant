@@ -1,0 +1,57 @@
+<view class='container'>
+    <view class='selection'>
+       <view class='text'>XX同学，你好！你的课程一成绩如下：</view>
+    </view>
+   
+   <view class='selection1'>
+       <view class='item'>
+          
+          <view class='item-1'>
+              <view class='text1'>学分</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>课时</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>平时成绩</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>期末成绩</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>总评</view>
+          </view>
+
+       </view>
+
+<view class='item'>
+          
+          <view class='item-1'>
+              <view class='text1'>6</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>48</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>95</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>95</view>
+          </view>
+
+           <view class='item-1'>
+              <view class='text1'>93.5</view>
+          </view>
+
+       </view>
+        
+   </view>
+
+</view>

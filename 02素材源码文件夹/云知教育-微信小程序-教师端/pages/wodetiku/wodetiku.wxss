@@ -1,0 +1,33 @@
+Page{
+  background-color: #eee;
+}
+
+.section-1{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 280px;
+  height: 60px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.section-2{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 280px;
+  height: 60px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.section-3{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 280px;
+  height: 60px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}

@@ -1,0 +1,18 @@
+<view class='container'>
+  
+  <view class='section-1' style='display:flex;' bindtap='TikuClick'>
+    <image src='../../images/tiku.png' style='width: 60px;height: 50px;margin-left:20px;margin-top:2px;'></image>
+    <text class='tiku' style='margin-top: 5px;margin-left:30px;'>题库中心</text>
+  </view>
+  
+  <view class='section-2' style='display:flex;' bindtap='ShoucangClick'>
+    <image src='../../images/shoucang.png' style='width: 60px;height: 50px;margin-left:20px;margin-top:2px;'></image>
+    <text class='shoucang' style='margin-top: 5px;margin-left:30px;'>我的收藏</text>
+  </view> 
+
+   <view class='section-3' style='display:flex;' bindtap='LianxiClick'>
+    <image src='../../images/lianxi.png' style='width: 60px;height: 50px;margin-left:20px;margin-top:2px;'></image>
+    <text class='lianxi' style='margin-top: 5px;margin-left:30px;'>我的练习</text>
+  </view> 
+
+</view>

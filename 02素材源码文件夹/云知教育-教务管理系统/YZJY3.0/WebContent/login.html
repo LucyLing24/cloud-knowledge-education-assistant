@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>云知教育教务管理系统-登录</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/nav-header.css">
+    
+	<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<!--背景样式-->
+<script type="text/javascript" src="js/canvas-nest.js"></script>
+<!--网页header-->
+<div class="JW_nav">
+    <div class="JW_nav_wrap">
+        <div class="title">
+            <a href="#" class="JW_title" target="_top">
+             云知教育教务管理系统
+            </a>
+        </div>        
+    </div>
+</div>
+<!--登录框-->
+<div class="login_box">
+    <p>教务登录</p>
+    <form action="checklogin.jsp"  method="post">
+        <!--输入用户名-->
+        <div class="info_list username">
+            <i class="fa fa-user-o W_icon"></i>
+            <input type="text" class="W_input" id="username" placeholder="请输入用户名" name="username" maxlength="128" autocomplete="off">
+        </div>
+        <!--输入密码-->
+        <div class="info_list password">
+            <i class="fa fa-lock W_icon"></i>
+            <input type="password" class="W_input" id="Psd" placeholder="请输入密码" name="password" maxlength="128" autocomplete="off">
+        </div>
+        <!--忘记密码，记住密码-->
+        <div class="info_list remember_forget">
+            <div class="forgetPSD">
+                <a href="#" class="S_txt2">忘记密码</a>
+            </div>
+            <label for="login_form_savestate" class="rememberPSD">
+                <input type="checkbox" class="W_checkbox" id="login_form_savestate" >
+                <span class="S_txt2">记住我</span>
+            </label>
+            <div style="clear:both;"></div>
+        </div>
+        <!--登录按钮-->
+        <div class="info_list login_btn">
+            <input type="submit" value="登录" name="submit">
+        </div>
+    </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+<view class="container">
+    <view class='selection'>
+        <view class='item'>
+             <view class="itemView">
+       <input name="userName" placeholder="请输入课程-课时号：如001-001" bindinput="userNameInput" />
+             </view>
+        </view>
+    </view>
+
+     <view class='selection1' bindtap='chaxuntap'>
+         <button class="submitClick" formType="submit" >查询</button>
+     </view>
+</view>

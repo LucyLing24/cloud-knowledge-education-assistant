@@ -1,0 +1,123 @@
+Page{
+  background-color: #eee;
+}
+
+.container{
+height: 480px;
+width: 100%;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+.top{
+height: 150px;
+width: 100%;
+display: flex;
+justify-content: center;
+padding-top: 4px;
+background-color: whitesmoke;
+}
+
+.input{
+padding-left:5px;
+padding-bottom: 5px;
+padding-top: 5px;
+height: 15px;
+width: 300px;
+font-size: 15spx;
+border-radius: 5px;
+border-width: 1px;
+border-color:turquoise;
+}
+
+.selection{
+height: 200px;
+width: 100%;
+flex-wrap: wrap;
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+
+.item{
+height: 80px;
+width: 25%;
+margin: 12px;
+background-color:lightgoldenrodyellow;
+border-radius: 20px;
+flex-wrap: wrap;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+.images{
+height: 55%;
+width: 55%;
+} 
+
+.item-text{
+font-size: 14px;
+color: gray;
+margin-top: 5px;
+}
+
+.imagess{
+height: 55%;
+width: 80%;
+}
+
+.imagesa{
+height: 55%;
+width: 55%;
+}
+
+.bottom{
+height: 20px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+.buttonedit{
+width: 100%;
+height: 20px;
+}
+
+.line-0{
+    height: 5px;
+    background: lightgray;    
+}
+
+.info-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20rpx 40rpx;
+    border-top:solid 1px #f0f0f0;
+
+}
+
+.infotext{
+    display: flex;
+    align-items: center;
+}
+
+.userinfo-avatar {
+  width: 180rpx;
+  height: 180rpx;
+  margin: 0 20rpx;
+  border-radius: 50%;
+  background-color: lightgray;
+  margin-left: 100px;
+}
+
+.swiper {
+  height: 150px;
+  width: 100%;
+}
+.swiper image {
+  height: 100%;
+  width: 100%;
+}

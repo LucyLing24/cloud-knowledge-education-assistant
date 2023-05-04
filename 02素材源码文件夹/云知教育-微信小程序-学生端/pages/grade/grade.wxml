@@ -1,0 +1,27 @@
+<view class='container'>
+    <view class='selection'>
+       <view class='text'>请选择你要查询的成绩</view>
+    </view>
+
+     <view class='selection1'>
+        <view class='item1' bindtap='quanbutap'>
+            <view class='text1'>全部成绩</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+            
+         <view class='item1' bindtap='kechengtap'>
+              <view class='text1'>课程一</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+
+         <view class='item1'>
+               <view class='text1'>课程二</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+
+         <view class='item1'>
+                 <view class='text1'>课程三</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+     </view>
+</view>

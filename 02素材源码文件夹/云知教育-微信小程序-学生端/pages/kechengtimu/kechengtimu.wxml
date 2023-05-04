@@ -1,0 +1,42 @@
+<view class='container'>
+    <view class='selection'>
+        <view class='item'>
+            <view class='text'>计算机组成原理-第一课时</view>
+        </view>
+
+        <view class='item1'>
+          <view class='items'>
+            <image src='/images/circle.png' class='images' />
+            <view class='text1'>001  题目一</view>
+          </view>
+            <view class='text1-1'>题目内容</view>
+        </view>
+
+         <view class='item1'>
+          <view class='items'>
+            <image src='/images/circle.png' class='images' />
+            <view class='text1'>002  题目二</view>
+          </view>
+            <view class='text1-1'>题目内容</view>
+        </view>
+
+         <view class='item1'>
+          <view class='items'>
+            <image src='/images/circle.png' class='images' />
+            <view class='text1'>003  题目三</view>
+          </view>
+            <view class='text1-1'>题目内容</view>
+        </view>
+
+        <view class='selection2'>
+            <view class='button'>
+                <view class='text2'>添加至任务</view>
+            </view>
+
+              <view class='button'>
+                <view class='text2'>收藏至题库</view>
+            </view>
+
+        </view>
+    </view>
+</view>

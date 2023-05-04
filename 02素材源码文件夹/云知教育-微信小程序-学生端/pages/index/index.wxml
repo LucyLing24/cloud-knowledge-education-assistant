@@ -1,0 +1,26 @@
+ <view class="contanier">
+  <view class="img">
+    <image class="log in" src="/images/logo2.png" style='width: 85px;height: 85px;'>
+    </image>
+  </view>
+  <form bindsubmit="bindFormSubmit" bindreset="formReset">
+    <view class="textareaT2" name="userName">
+      <view class="itemView">用户名：
+        <input name="userName" placeholder="请输入用户名" bindinput="userNameInput" auto-focus='' />
+      </view>
+      <view class="lineV"></view>
+      <view class="itemView">密码：
+        <input name="userName" placeholder="请输入密码" bindinput="pasWInput" />
+      </view>
+    </view>
+    <button class="submitClick" formType="submit" bindtap='Logsbutton'> 登 录</button>
+  </form>
+  <view>{{tip}}</view>
+  <view>{{userName}}</view>
+  
+
+  <view class='tips'>
+   <text class="newuser" bindtap='bindnewuser'>新用户注册</text>
+   <text class="password" bindtap='bindpassword'>忘记密码？</text>
+   </view>
+</view>

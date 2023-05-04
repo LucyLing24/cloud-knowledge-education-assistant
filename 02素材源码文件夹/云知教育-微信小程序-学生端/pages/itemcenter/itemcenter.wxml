@@ -1,0 +1,19 @@
+<view class="container">
+<view class='item'>
+  <view class='selection' bindtap='projecttap'>
+    <image src='/images/project.png' class='images' />
+    <view class='text'>课程一</view>
+  </view>
+
+   <view class='selection'>
+    <image src='/images/project.png' class='images' />
+    <view class='text'>课程二</view>
+  </view>
+
+   <view class='selection'>
+    <image src='/images/project.png' class='images' />
+    <view class='text'>课程三</view>
+  </view>
+
+</view>
+</view>

@@ -1,0 +1,190 @@
+Page{
+  background-color: #eee;
+}
+
+.line-0{
+  width:100%;
+  height:3px;
+  background:lightgray;
+  margin-top: 25px;
+}
+
+.line-1{
+  width:100%;
+  height:1px;
+  background:#e5e5e5;
+  margin-top: 0px;
+}
+
+.line-2{
+  width:100%;
+  height:3px;
+  background:lightgray;
+  margin-top: 0px;
+}
+
+.line-3{
+  width:100%;
+  height:3px;
+  background:lightgray;
+  margin-top: 0px;
+}
+
+.Input{
+  height: 325px;
+  width: 100%;
+  background-color: white;
+}
+
+.suoshuyuanxi{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.suoshuyuanxi-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.fuzebanjihao{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.fuzebanjihao-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.fuzekechenghao{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.fuzekechenghao-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.zhicheng{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.zhicheng-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.age{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.age-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.xingbie{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.xingbie-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.tel{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.tel-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.email{
+  display: flex;
+  margin-left: 10px;
+  margin-top: 0px;
+  padding: 5px;
+  align-items: center;
+}
+
+.email-1{
+  border-color: white;
+  height: 30px;
+  width: 170px;
+}
+
+.return{
+  background-color: #ccffff;
+  margin-bottom: 0px;
+}
+
+.userinfo-avatar {
+  height: 200rpx;
+  width: 200rpx;
+  border-radius: 50%;
+  border-color: #cfcfcf;
+  margin-top: 5px;
+  margin-left: 30px;
+  background-color: white;
+}
+
+.info-items{
+  height: 95px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.bind{
+  align-items: center;
+}
+
+.xinxi{
+  margin-right: 100px;
+  margin-top: 38px;
+  font-size: 14px;
+}
+
+.gonghao{
+  color:lightgray;
+}
+
+.xingming{
+  color:lightgray;
+}

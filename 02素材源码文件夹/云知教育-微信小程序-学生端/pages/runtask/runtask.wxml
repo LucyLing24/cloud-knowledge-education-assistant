@@ -1,0 +1,29 @@
+<view class='container'>
+    <view class='selection'>
+        <view class='item'>
+            <view class='text'>任务名称： 计算机组成原理</view>
+        </view>
+
+        <view class='item1'>
+            <view class='text1'>结束时间： 2018.04.20  23:59</view>
+        </view>
+
+        <view class='item2'>
+            <view class='text2'>完成进度： 55%</view>
+        </view>
+    </view>
+
+     <view class='selection'>
+        <view class='item'>
+            <view class='text'>任务名称： 操作系统</view>
+        </view>
+
+        <view class='item1'>
+            <view class='text1'>结束时间： 2018.04.19  23:59</view>
+        </view>
+
+        <view class='item2'>
+            <view class='text2'>完成进度： 95%</view>
+        </view>
+    </view>
+</view>

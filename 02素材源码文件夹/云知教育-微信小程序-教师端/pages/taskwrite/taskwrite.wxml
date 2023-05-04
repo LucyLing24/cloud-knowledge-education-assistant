@@ -1,0 +1,49 @@
+<view class='container' style='background-color:#eee;'>
+
+  <view class='targetclass' style='display: flex;background-color:#eee;padding:10px;'>
+    <text>目标班级:</text>
+    <picker bindchange="bindPicker0Change" value="{{index0}}" range="{{array0}}">
+      <view class="weui-input" style='margin-left:10px;font-size:14px;margin-top:2px;color:black;'>{{array0[index0]}}</view>
+    </picker>
+  </view>
+
+  <view class='line'></view>
+
+  <view class='targetclass' style='display: flex;background-color:#eee;padding:10px;'>
+    <text>课程号:</text>
+    <picker bindchange="bindPicker1Change" value="{{index1}}" range="{{array1}}">
+      <view class="weui-input" style='margin-left:25px;font-size:14px;margin-top:2px;color:black;'>{{array1[index1]}}</view>
+    </picker>
+  </view>
+
+  <view class='line'></view>
+
+  <view class='targetclass' style='display: flex;background-color:#eee;padding:10px;'>
+    <text>课程名称:</text>
+    <picker bindchange="bindPicker2Change" value="{{index2}}" range="{{array2}}">
+      <view class="weui-input" style='margin-left:10px;font-size:14px;margin-top:2px;color:black;'>{{array2[index2]}}</view>
+    </picker>
+  </view>
+
+  <view class='line'></view>
+
+  <view class='targetclass' style='display: flex;background-color:#eee;padding:10px;'>
+    <text>主题:</text>
+    <input class='input' bindinput='Input'></input>
+  </view>
+
+  <view class='line-0'></view>
+
+  <view class='targetclass' style='background-color:#eee;padding:10px;'>
+    <text>任务详情</text>
+    <textarea class="weui-textarea" placeholder="内容......" style="height: 10em" />
+  </view>
+
+ 
+
+  <view class='section-1' style='margin-top:0px;padding:5px;display:flex;background-color:#eee;'>
+    <button class='store' size='mini' bindtap='StoreClick'>保存</button>
+    <button class='send' size='mini' bindtap='SendClick'>发送</button>
+  </view>
+
+</view>

@@ -1,0 +1,39 @@
+Page{
+  background-color: #eee;
+}
+
+.textareaT2 {
+  margin-top: 50px;
+  width: 90%;
+  height: 160rpx;
+  margin-left: 5%;
+  border: 1px solid darkgray;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.submitClick {
+  width: 80%;
+  color: white;
+  background: #06a6e4;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.itemView {
+  height: 60rpx;
+  display: flex;
+  justify-content: space-around;
+  font-size: 13.0px;
+  margin-top: 20rpx;
+}
+
+.lineV{
+  width: 95%;
+  height: 2rpx;
+  background: darkgrey;
+  display: flex;
+  margin-left: 2.5%;
+  justify-content: space-around;
+}
+

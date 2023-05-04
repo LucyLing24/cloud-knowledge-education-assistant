@@ -1,0 +1,43 @@
+<view style='display:flex;flex-direction:column;padding:10px;'>
+
+  <view style='background-color:#ffffff;margin-top:0px;padding:5px;display:flex;' bindtap='TaskwriteClick'>
+    <image src='../../images/write.png' style='width: 25px;height: 25px;margin-right:10px'></image>
+    <view style='display:flex;justify-content:space-between;'>
+      <text>编辑任务</text>
+      <image src='../../images/left.png' style='width: 25px;height: 25px;margin-left:145px;'></image>
+    </view>
+  </view>
+
+  <view class='line-0'></view>
+
+  <view style='background-color:#ffffff;margin-top:0px;padding:5px;display:flex;' bindtap='TaskstoreClick'>
+    <image src='../../images/caogao1.png' style='width: 25px;height: 25px;margin-right:10px'></image>
+    <view style='display:flex;justify-content:space-between;' >
+      <text>草稿箱</text>
+      <image src='../../images/left.png' style='width: 25px;height: 25px;margin-left:160px;'></image>
+    </view>
+  </view>
+
+  <view class='line-0'></view>
+
+  <view style='background-color:#ffffff;margin-top:0px;padding:5px;display:flex;' bindtap='TaskrubbishClick'>
+    <image src='../../images/rubbish.png' style='width: 25px;height: 25px;margin-right:10px'></image>
+    <view style='display:flex;justify-content:space-between;' >
+      <text>进行中</text>
+      <image src='../../images/left.png' style='width: 25px;height: 25px;margin-left:160px;'></image>
+    </view>
+  </view>
+  
+  <view class='line-0'></view>
+
+  <view style='background-color:#ffffff;margin-top:0px;padding:5px;display:flex;' bindtap='TasksendClick' >
+    <image src='../../images/send.png' style='width: 25px;height: 25px;margin-right:10px'></image>
+    <view style='display:flex;justify-content:space-between;' >
+      <text>已完成</text>
+      <image src='../../images/left.png' style='width: 25px;height: 25px;margin-left:160px;'></image>
+    </view>
+  </view>
+
+  <view class='line-0'></view>
+
+</view>

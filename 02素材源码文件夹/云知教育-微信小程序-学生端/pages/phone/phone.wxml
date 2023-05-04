@@ -1,0 +1,23 @@
+
+<view class='container'>
+
+<view class='selection'>
+ <view class='item2' bindtap='mantap'>
+         <view class="item-texts">新手机号
+        <input name="userName" placeholder="" bindinput="userNameInput" /></view> 
+    </view>
+
+     <view class='item2' bindtap='womantap'>
+        <view class="item-texts">验证码
+        <input name="userName" placeholder="" bindinput="userNameInput" /></view> 
+    </view>
+
+  </view>
+ <view class='item'>
+        <button class="submitClick1" formType="submit" > 获取验证码</button>
+    </view>
+  <view class='selection2'>
+<button class="submitClick" formType="submit" bindtap='Logsbutton'>确定</button>
+ </view>
+
+</view>

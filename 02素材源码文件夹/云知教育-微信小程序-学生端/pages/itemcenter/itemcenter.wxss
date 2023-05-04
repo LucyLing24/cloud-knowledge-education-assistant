@@ -1,0 +1,40 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background: #eee;
+  padding-top: 0px;
+ 
+}
+
+.item{
+  height: 180px;
+  width: 100%;
+ 
+}
+
+.selection{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  border: solid;
+  border-bottom-color: white;
+  border-top-color: #eee;
+  border-left-color: #eee;
+  border-right-color: #eee;
+  border-bottom-width: 1.5px;
+  margin-top: 0px;
+}
+
+.images{
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+
+}
+
+.text{
+ height: 50px;
+ width: 220px;
+ margin-top: 20px;
+}

@@ -1,0 +1,60 @@
+<view class="container">
+    <view class='top'>
+    <swiper class="swiper" indicator-dots="true" autoplay="true" interval="5000" duration="1000">   
+      <block wx:for="{{movies}}" wx:for-index="index">    
+        <swiper-item>
+          <image src="{{item.url}}" class="slide-image" mode="aspectFill"/>    
+        </swiper-item>    
+      </block>    
+    </swiper>    
+  </view>
+
+    <view class='selection'>
+        <view class='item'>
+         <image src='/images/geren1.png' class='imagesa' bindtap='personitem'/>
+         <text class='item-text'>个人信息</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/kecheng1.png' class='images' bindtap='projectsitem' />
+         <text class='item-text'>我的课程</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/chaxun1.png' class='images' bindtap='chaxunitem'/>
+         <text class='item-text'>成绩查询</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/renwu2.png' class='images' bindtap='renwuitem'/>
+         <text class='item-text'>我的任务</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/shixun1.png' class='images' bindtap='shixunitem' />
+         <text class='item-text'>个人题库</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/dangan1.png' class='images' bindtap='danganitem'/>
+         <text class='item-text'>能力档案</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/zixun1.png' class='images' bindtap='zixunitem'/>
+         <text class='item-text'>新闻资讯</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/yuanxiao1.png' class='images' bindtap='yuanxiaoitem' />
+         <text class='item-text'>院校/机构</text>
+        </view>
+
+        <view class='item'>
+         <image src='/images/class1.png' class='imagess' bindtap='classitem'/>
+         <text class='item-text'>班级</text>
+        </view>
+
+    </view>  
+
+</view>

@@ -1,0 +1,44 @@
+<view style="display:flex;flex-direction:column;padding:10px;">
+  <view class="section">
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-left:10px;'>
+      <text style='font-size:18px;color:black;margin-right:60px;'>班级1</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:15px;color:black;margin-left:10px;'>任务号</text>
+      <text style='font-size:15px;color:black;margin-right:60px;'>课程名称</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#000;margin-left:10px;'>完成人数：X</text>
+      <button class="chakan" bindtap='ChakanClick'>查看</button>
+    </view>
+  </view>
+
+  <view class="section" style='margin-top:20px;'>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-left:10px;'>
+      <text style='font-size:18px;color:black;margin-right:60px;'>班级1</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:15px;color:black;margin-left:10px;'>任务号</text>
+      <text style='font-size:15px;color:black;margin-right:60px;'>课程名称</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#000;margin-left:10px;'>完成人数：X</text>
+      <button class="chakan" bindtap='ChakanClick'>查看</button>
+    </view>
+  </view>
+
+  <view class="section" style='margin-top:20px;'>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-left:10px;'>
+      <text style='font-size:18px;color:black;margin-right:60px;'>班级1</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:15px;color:black;margin-left:10px;'>任务号</text>
+      <text style='font-size:15px;color:black;margin-right:60px;'>课程名称</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#000;margin-left:10px;'>完成人数：X</text>
+      <button class="chakan" bindtap='ChakanClick'>查看</button>
+    </view>
+  </view>
+  
+</view>

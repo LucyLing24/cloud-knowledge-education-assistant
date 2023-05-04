@@ -1,0 +1,106 @@
+.container{
+  height: 500px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+}
+
+.item{
+  height: 80px;
+  width: 100%;
+  background-color:paleturquoise;
+  display: flex;
+  justify-content: flex-start;
+ 
+}
+
+.item-text{
+  font-size: 15px;
+  margin-top:30px;
+}
+
+.imagess{
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.imagesss{
+  height: 30px;
+  width: 30px;
+  margin-left: 150px;
+  margin-top: 25px;
+}
+
+.item1{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+}
+
+.images{
+  height: 30px;
+  width: 30px;
+  margin-left: 22px;
+  margin-top: 10px;
+}
+
+.item-texts{
+   font-size: 15px;
+   margin-top: 16px;
+    margin-left: 10px;
+}
+
+.message-images{
+  height: 30px;
+  width: 30px;
+  margin-left:160px;
+  margin-top: 10px;
+}
+
+.item2{
+  height: 50px;
+  width: 100%;
+  border: solid;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  border-color: white;
+}
+
+.images2{
+  height: 30px;
+  width: 30px;
+  margin-left: 21px;
+  margin-top: 10px;
+}
+
+.item-texts2{
+   font-size: 14px;
+   margin-top: 16px;
+    margin-left: 13px;
+}
+
+
+.item3{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  border: solid;
+  border-color: white;
+  border-top-width: 0px;
+}
+
+.images3{
+  height: 30px;
+  width: 30px;
+  margin-left: 21px;
+  margin-top: 11px;
+}
+

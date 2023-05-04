@@ -1,0 +1,23 @@
+<view class='container'>
+  <view class='section-1' style='display:flex;'>
+    <image src='../../images/kc.png' style='width: 50px;height: 40px;margin-left:20px;margin-top:10px;'></image>
+    <text class='kecheng-1' bindtap='ClassClick1' style='margin-top: 20px;'>课程1</text>
+  </view> 
+
+  <view class='line-0'></view>
+
+  <view class='section-2' style='display:flex;'>
+    <image src='../../images/kc.png' style='width: 50px;height: 40px;margin-left:20px;margin-top:10px;'></image>
+    <text class='kecheng-2' bindtap='ClassClick2' style='margin-top: 20px;'>课程2</text>
+  </view> 
+
+  <view class='line-0'></view>
+
+  <view class='section-3' style='display:flex;'>
+    <image src='../../images/kc.png' style='width: 50px;height: 40px;margin-left:20px;margin-top:10px;'></image>
+    <text class='kecheng-3' bindtap='ClassClick3' style='margin-top: 20px;'>课程3</text>
+  </view> 
+
+  <view class='line-0'></view>
+  
+</view>

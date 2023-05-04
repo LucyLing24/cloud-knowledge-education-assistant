@@ -1,0 +1,35 @@
+Page{
+  background-color: #eee;
+}
+
+.class-1{
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 300px;
+  height: 40px;
+  background-color: #ffffcc;
+}
+
+.class-2{
+  margin-top: 0px;
+  margin-left: 10px;
+  width: 300px;
+  height: 40px;
+  background-color: #ffffcc;
+}
+
+.class-3{
+  margin-top: 0px;
+  margin-left: 10px;
+  width: 300px;
+  height: 40px;
+  background-color: #ffffcc;
+}
+
+.class-4{
+  margin-top: 0px;
+  margin-left: 10px;
+  width: 300px;
+  height: 40px;
+  background-color: #ffffcc;
+}

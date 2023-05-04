@@ -1,0 +1,23 @@
+<view class='container'>
+    <view class='selection'>
+       <view class='text'>请选择你要查询的题目属性</view>
+    </view>
+
+     <view class='selection1'>
+        <view class='item1' bindtap='kechengtap'>
+            <view class='text1'>根据课程-课时</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+            
+         <view class='item1' bindtap='numbertap'>
+              <view class='text1'>根据题目编号</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+
+         <view class='item1' bindtap='contenttap'>
+               <view class='text1'>根据题目内容</view>
+            <image src='/images/xiangyou.png' class='images' />
+        </view>
+
+     </view>
+</view>

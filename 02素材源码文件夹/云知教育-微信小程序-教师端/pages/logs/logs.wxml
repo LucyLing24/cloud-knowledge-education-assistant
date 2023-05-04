@@ -1,0 +1,46 @@
+<view class="container">
+  <view class='top'>
+    <swiper class="swiper" indicator-dots="true" autoplay="true" interval="5000" duration="1000">    
+      <block wx:for="{{movies}}" wx:for-index="index">    
+        <swiper-item>
+          <image src="{{item.url}}" class="slide-image" mode="aspectFill"/>    
+        </swiper-item>    
+      </block>    
+    </swiper>    
+  </view>
+
+  <view class='line-0'></view>
+
+  <view class='selection'>
+    <view class='item'>
+      <image src='/images/people-1.png' class='imagesa' bindtap='personitemClick'/>
+      <text class='item-text'>个人信息</text>
+    </view>
+
+    <view class='item'>
+      <image src='/images/class.png' class='images' bindtap='projectsitemClick' />
+      <text class='item-text'>班级信息</text>
+    </view>
+
+    <view class='item'>
+      <image src='/images/kechenginfo.png' class='images' bindtap='kechenginfoClick'/>
+      <text class='item-text'>课程信息</text>
+    </view>
+
+    <view class='item'>
+      <image src='/images/write.png' class='images' bindtap='taskitemClick'/>
+      <text class='item-text'>任务中心</text>
+    </view>
+
+    <view class='item'>
+      <image src='/images/caogao1.png' class='images' bindtap='classgradeitemClick' />
+      <text class='item-text'>班级成绩</text>
+    </view>
+
+    <view class='item'>
+      <image src='/images/gradelogin.png' class='images' bindtap='questionitemClick'/>
+      <text class='item-text'>我的题库</text>
+    </view>
+  </view>
+
+</view>

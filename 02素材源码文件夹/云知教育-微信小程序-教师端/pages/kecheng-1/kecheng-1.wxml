@@ -1,0 +1,50 @@
+<view class="container">
+  <view class='item' bindtap='KechenghaoClick'>
+    <text class="item-texts">课程介绍</text>
+    <image src='/images/down.png' class='message-images' />
+  </view>
+  <view class='text'>
+    <text style='font-size:15px;color:#737373;margin-left:10px;margin-left:5px;'>课程1的相关简介</text>
+  </view>
+
+  <view class='item' bindtap='KechenghaoClick'>
+    <text class="item-texts">课程结构</text>
+    <image src='/images/down.png' class='message-images' />
+  </view>
+  <view class='text'>
+    <text style='font-size:15px;color:#737373;margin-left:10px;margin-left:5px;'>课程1结构</text>
+  </view>
+
+
+  <view class='item' bindtap='KechenghaoClick'>
+    <text class="item-texts">课程号</text>
+    <image src='/images/down.png' class='message-images1' />
+  </view>
+  
+  <view class='item' bindtap='XuefenClick'>
+    <text class="item-texts">学分</text>
+    <image src='/images/down.png' class='message-images2' />
+  </view>
+
+  <view class='item' bindtap='KaoshiClick'> 
+    <text class="item-texts">考试时间</text>
+    <image src='/images/down.png' class='message-images' />
+  </view>
+
+
+  <view class='item' bindtap='KeshiClick'>
+    <text class="item-texts">课时安排</text>
+    <image src='/images/down.png' class='message-images' />
+  </view>
+
+  <view class='item' bindtap='ZhishiClick'> 
+    <text class="item-texts">知识点</text>
+    <image src='/images/down.png' class='message-images1' />
+  </view>
+
+
+</view>
+
+
+
+

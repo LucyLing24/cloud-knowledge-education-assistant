@@ -1,0 +1,76 @@
+Page{
+  background-color: #eee;
+}
+
+.item-1{
+  height: 100px;
+  width: 80%;
+  margin-left: 30px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.item-2{
+  margin-left: 30px;
+  display: flex;
+  justify-content: center;
+  height: 20px;
+  width: 79%;
+  border: 2px solid #cfcfcf;
+  border-radius: 2px;
+  background-color: white;
+}
+
+.item-3{
+  margin-left: 30px;
+  height: 20px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.xuanxiang{
+  height: 20px;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+}
+
+.line{
+  background-color: #cfcfcf;
+  height: 20px;
+  width: 2px;
+  margin-left: 30px;
+}
+
+.chakan{
+  height: 20px;
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 2px;
+  background-color: white;
+}
+
+.shoucang{
+  height: 20px;
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 2px;
+  background-color: #e5e5e5;
+}
+
+.content{
+  background-color: white;
+  width: 250px;
+  height: 90px;
+  border: 2px solid #e5e5e5;
+}
+
+.hide{
+ display: none;
+}
+
+.show{ 
+ display: block;
+}
+

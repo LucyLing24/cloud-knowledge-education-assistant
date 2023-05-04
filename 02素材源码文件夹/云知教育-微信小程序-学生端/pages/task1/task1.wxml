@@ -1,0 +1,15 @@
+<view class='container'>
+  <view class='selection'>
+         <image src='/images/add.png' class='images' bindtap='addtap' />
+  </view>
+
+  <view class='selection1'>
+    <button class="submitClick" formType="submit" bindtap='Logsbutton'>保存</button>
+  </view>
+
+  <view class='selection2'>
+    <view class='item1'>
+      <view class='text'>保存后不可修改</view>
+    </view>
+  </view>
+</view>

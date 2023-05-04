@@ -1,0 +1,36 @@
+<view class='container'>
+  <view class='Class' style='margin-left:30px;'>
+    <text style='font-size:15px;color:#888;margin-top:10px;'>
+      请选择您的身份
+    </text>
+  </view>
+
+  <view class="section section_gap">
+
+    <radio-group name="radio-group">
+      <label class='radio1'><radio value="radio1"/>普通教师</label>
+
+          <view class='section-1'>
+            <button class='class-1' bindtap='ClassClick1'>班级1</button>
+          </view> 
+
+          <view class='section-2'>
+            <button class='class-2' bindtap='ClassClick2'>班级2</button>
+          </view> 
+
+          <view class='section-3'>
+            <button class='class-3' bindtap='ClassClick3'>班级3</button>
+          </view> 
+
+          <view class='section-4'>
+            <button class='class-4' bindtap='ClassClick4'>班级4</button>
+          </view> 
+
+      <label class='radio2'><radio value="radio2"/>班主任</label>
+      <view class='section-4'>
+        <button class='class-4' bindtap='ClassClick4'>班级X</button>
+      </view> 
+    </radio-group>
+  </view>
+  
+</view>

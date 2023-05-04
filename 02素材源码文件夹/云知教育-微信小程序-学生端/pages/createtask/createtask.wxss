@@ -1,0 +1,52 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+
+}
+
+.selection{
+  height: 260px;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.item2{
+  height: 40px;
+  width: 280px;
+  border: solid;
+  border-right-color:gray;
+  border-top-color: gray;
+  border-left-color: gray;
+  border-bottom-color: #cfcfcf;
+  border-width: 1px;
+  background-color:white;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-left: 20px;
+}
+
+.item-texts{
+   font-size: 14px;
+   margin-top: 10px;
+    margin-left: 20px;
+     display: flex;
+  justify-content: space-around;
+}
+
+.selection2{
+  height: 45px;
+  width: 380px;
+  margin-bottom: 10px;
+}
+
+.submitClick {
+  margin-top:15px;
+  width: 260px;
+  color: white;
+  background: #00cc00;
+  font-size: 14px;
+}

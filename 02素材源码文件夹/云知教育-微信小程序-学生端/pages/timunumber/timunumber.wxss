@@ -1,0 +1,46 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+}
+
+.selection{
+  height: 85px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.item{
+  height: 35px;
+  width: 270px;
+  border: solid;
+  background-color: white;
+  margin-top: 20px;
+  border-color: gray;
+  border-width: 1.5px;
+}
+
+.itemView {
+  height: 60rpx;
+  margin-left: 10px;
+  font-size: 12.0px;
+  margin-top: 18rpx;
+}
+
+.selection1{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.submitClick {
+  height: 35px;
+  width: 270px;
+  color: white;
+  background: #00cc00;
+  font-size: 14px;
+}

@@ -1,0 +1,59 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+
+}
+
+.selection{
+  height: 100px;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.submitClick1 {
+  width: 100%;
+  color: white;
+  background: #00cc00;
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+.item2{
+  height: 40px;
+  width: 100%;
+  border: solid;
+  border-right-color: white;
+  border-top-color: white;
+  border-left-color: white;
+  border-bottom-color: #cfcfcf;
+  border-width: 1px;
+  background-color:white;
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+}
+
+.item-texts{
+   font-size: 14px;
+   margin-top: 10px;
+    margin-left: 20px;
+      display: flex;
+  justify-content: space-around;
+}
+
+.selection2{
+  height: 45px;
+  width: 380px;
+  margin-bottom: 10px;
+}
+
+.submitClick {
+  margin-top:15px;
+  width: 80%;
+  color: white;
+  background: #00cc00;
+  font-size: 14px;
+}

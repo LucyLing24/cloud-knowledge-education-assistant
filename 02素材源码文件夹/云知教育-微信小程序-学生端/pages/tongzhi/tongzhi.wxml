@@ -1,0 +1,22 @@
+<view class="container">
+    <view class='item1' bindtap='createitem'>
+      <image src='/images/messages.png' class='images'/>
+       <text class="item-texts">消息一</text>
+        
+    </view>
+
+    <view class='item2'>
+      <image src='/images/messages.png' class='images2' />
+       <text class="item-texts2">消息二</text>
+      
+    </view>
+
+    <view class='item3'>
+      <image src='/images/messages.png' class='images3' />
+       <text class="item-texts">消息三</text>
+       
+    </view>
+
+
+
+</view>

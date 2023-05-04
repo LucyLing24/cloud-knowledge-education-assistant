@@ -1,0 +1,21 @@
+<view class="contanier"> 
+  <form bindsubmit="bindFormSubmit" bindreset="formReset">
+    <view class="textareaT2" name="userName">
+      <view class="itemView">新密码：
+        <input name="userName" placeholder="" bindinput="userNameInput" />
+      </view>
+      <view class="lineV"></view>
+      <view class="itemView">确认密码：
+         
+        <input name="userName" placeholder="" bindinput="pasWInput" />
+      </view>
+      
+    </view>
+    <button class="submitClick" formType="submit" bindtap='Logsbutton'>确认</button>
+  </form>
+
+  <view>{{userName}}</view>
+  
+
+  
+</view>

@@ -1,0 +1,17 @@
+<view style='margin-top:20px;'>
+  <view class='section-1'>
+    <button class='class-1' bindtap='ClassClick1'>班级1</button>
+  </view> 
+
+  <view class='section-2'>
+    <button class='class-2' bindtap='ClassClick2'>班级2</button>
+  </view> 
+
+  <view class='section-3'>
+    <button class='class-3' bindtap='ClassClick3'>班级3</button>
+  </view> 
+
+  <view class='section-4'>
+    <button class='class-4' bindtap='ClassClick3'>班级3</button>
+  </view> 
+</view>

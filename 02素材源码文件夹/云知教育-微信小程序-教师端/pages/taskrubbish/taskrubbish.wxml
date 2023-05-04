@@ -1,0 +1,53 @@
+<view style="display:flex;flex-direction:column;padding:10px;">
+  <view class="section">
+    <view style='display:flex;justify-content:space-between;margin-top:10px;'>
+      <text style='font-size:13px;color:#323232;margin-left:10px;'>班级号</text>
+      <text style='font-size:13px;color:#323232;margin-right:60px;'>任务号</text>
+    </view>
+    <view style='margin-top:10px;'>
+      <text style='font-size:15px;margin-left:10px;font-weight:500px;color:#323232;'>任务主题</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#8a8a8a;margin-left:10px;'>完成情况</text>
+      <view style='margin-right:30px;display:flex;'>
+        <view style='height:15px;width:100px;background-color:#009900'></view>
+        <text style='align-items:center;font-size:13px;color:#8a8a8a;'>66%</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" style='margin-top:30px;'>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;'>
+      <text style='font-size:13px;color:#323232;margin-left:10px;'>班级号</text>
+      <text style='font-size:13px;color:#323232;margin-right:60px;'>任务号</text>
+    </view>
+    <view style='margin-top:10px;'>
+      <text style='font-size:15px;margin-left:10px;font-weight:500px;color:#323232;'>任务主题</text>
+    </view>
+    <view style='display:flex;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#8a8a8a;margin-left:10px;'>完成情况</text>
+      <view style='margin-left:72px;display:flex;'>
+        <view style='height:15px;width:50px;background-color:#009900'></view>
+        <text style='align-items:center;font-size:13px;color:#8a8a8a;'>33%</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" style='margin-top:30px;'>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;'>
+      <text style='font-size:13px;color:#323232;margin-left:10px;'>班级号</text>
+      <text style='font-size:13px;color:#323232;margin-right:60px;'>任务号</text>
+    </view>
+    <view style='margin-top:10px;'>
+      <text style='font-size:15px;margin-left:10px;font-weight:500px;color:#323232;'>任务主题</text>
+    </view>
+    <view style='display:flex;justify-content:space-between;margin-top:10px;margin-bottom:10px;'>
+      <text style='font-size:13px;color:#323232;margin-left:10px;'>完成情况</text>
+      <view style='margin-right:45px;display:flex;'>
+        <view style='height:15px;width:85px;background-color:#009900'></view>
+        <text style='align-items:center;font-size:13px;color:#8a8a8a;'>50%</text>
+      </view>
+    </view>
+  </view>
+  
+</view>

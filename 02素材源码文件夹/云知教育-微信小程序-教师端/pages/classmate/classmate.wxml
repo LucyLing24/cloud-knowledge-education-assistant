@@ -1,0 +1,24 @@
+<view class='container'>
+  <view class='Class' style='margin-left:30px;'>
+    <text style='font-size:14px;color:#888;'>
+      请选择你要查询的班级
+    </text>
+  </view>
+
+  <view class='section-1'>
+    <button class='class-1' bindtap='ClassClick1'>班级1</button>
+  </view> 
+
+  <view class='section-2'>
+    <button class='class-2' bindtap='ClassClick2'>班级2</button>
+  </view> 
+
+  <view class='section-3'>
+    <button class='class-3' bindtap='ClassClick3'>班级3</button>
+  </view> 
+
+  <view class='section-4'>
+    <button class='class-4' bindtap='ClassClick4'>班级4</button>
+  </view> 
+  
+</view>

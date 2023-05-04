@@ -1,0 +1,22 @@
+<view class="container">
+    <view class='item1' bindtap='createitem'>
+      <image src='/images/chuangjian.png' class='images'/>
+       <text class="item-texts">创建任务</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    <view class='item2' bindtap='runtask'>
+      <image src='/images/daiwancheng.png' class='images2' />
+       <text class="item-texts2">正在进行</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    <view class='item3' bindtap='wanchengtap'>
+      <image src='/images/yiwancheng.png' class='images3' />
+       <text class="item-texts">已经完成</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+
+
+</view>

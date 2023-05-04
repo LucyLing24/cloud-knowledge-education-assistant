@@ -1,0 +1,42 @@
+<view class="container">
+     <view class='item2'>
+       <text class="item-texts">课程介绍</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+     <view class='item2'>
+       <text class="item-texts">课程结构</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+     <view class='item2'>
+       <text class="item-texts">课程号</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+     <view class='item2'>
+       <text class="item-texts">学分</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+     <view class='item2'>
+       <text class="item-texts">任课老师</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+ 
+     <view class='item2'>
+       <text class="item-texts">上课地点</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+ <view class='item2'>   
+       <text class="item-texts">上课时间</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+    <view class='item2'>   
+       <text class="item-texts">考试时间</text>
+         <image src='/images/down.png' class='message-images' />
+    </view>
+
+</view>

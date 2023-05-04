@@ -1,0 +1,54 @@
+Page{
+  background-color: #eee;
+  padding-top: 0px;
+} 
+
+.container{
+  height: 400px;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 20px;
+  align-content: flex-start;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.section-1{
+  margin-top:0px;
+  margin-left:10px;
+  width: 280px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.section-2{
+ margin-top: 10px;
+  margin-left: 10px;
+  width: 280px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.section-3{
+   margin-top: 10px;
+  margin-left: 10px;
+  width: 280px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.section-4{
+   margin-top: 10px;
+  margin-left: 10px;
+  width: 280px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}

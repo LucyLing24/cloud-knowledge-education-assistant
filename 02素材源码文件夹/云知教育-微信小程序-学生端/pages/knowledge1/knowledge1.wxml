@@ -1,0 +1,41 @@
+<view class='container'>
+
+  <view class='selection'>
+    <view class='item'>
+         <view class='text'>001   知识点一</view>
+         <image src='/images/down.png' class='images' />
+    </view>
+
+      <view class='item-message'>
+        <view class='text1'>知识点内容如下：.......</view> 
+      </view>
+
+  </view>
+
+ <view class='selection'>
+    <view class='item'>
+         <view class='text'>002   知识点一</view>
+         <image src='/images/down.png' class='images' />
+    </view>
+
+      <view class='item-message'>
+        <view class='text1'>知识点内容如下：.......</view> 
+      </view>
+
+  </view>
+
+  <view class='selection'>
+    <view class='item'>
+         <view class='text'>002   知识点一</view>
+         <image src='/images/down.png' class='images' />
+    </view>
+
+      <view class='item-message'>
+        <view class='text1'>知识点内容如下：.......</view> 
+      </view>
+
+  </view>
+
+   
+
+</view>

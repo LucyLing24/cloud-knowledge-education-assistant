@@ -1,0 +1,89 @@
+<view class='contanier'>
+
+  <view class='line-0'></view>
+
+  <view class="info-items" bindtap="setPhotoInfo">
+    <view class="infotext">
+      <image wx:if="{{imgUrl!=null}}" class="userinfo-avatar" src="/images/teacher.png" ></image>
+      <image wx:else class="userinfo-avatar" src="/images/teacher.png" ></image>
+    </view>
+    <view class='xinxi'>
+      <text class='gonghao'>工号:123</text>
+      <text class='xingming'></text>
+    </view>
+  </view>
+
+  <view class="line-3"></view>
+
+  <view class="line-0"></view>
+
+  <view class='Input' >
+    <view class='suoshuyuanxi'>
+      <text>所属院系：计算机科学与技术学院</text>
+      <input class='suoshuyuanxi-1' bindinput='Input'></input>
+    </view>
+
+    <view class="line-1"></view>
+
+    <view class='fuzebanjihao'>
+      <text >负责班级号：</text>
+      <input class='fuzebanjihao-2' bindinput='Input'></input>
+    </view>
+
+    <view class="line-1"></view>
+
+    <view class='fuzekechenghao'>
+      <text >负责课程号：</text>
+      <input class='fuzekechenghao' bindinput='Input'></input>
+    </view>
+    
+    <view class="line-1"></view>
+
+    <view class='zhicheng'>
+      <text >职称：教授</text>
+      <input class='zhicheng-1' bindinput='Input'></input>
+    </view>
+
+    <view class="line-1"></view>
+
+    <view class='age'>
+      <text >年龄：40</text>
+      <input class='age-1' bindinput='Input'></input>
+    </view>
+
+    <view class="line-1"></view>
+
+
+
+    <view class="xingbie">
+      <text>性别：男</text>
+      <picker  class='bind' bindchange="bindPicker0Change" value="{{index0}}" range="{{array0}}">
+        <view class="xingbie-1" style='margin-left:10px;font-size:14px;margin-top:10px;color:black;'>{{array0[index0]}}</view>
+      </picker>
+    </view>
+
+    <view class="line-1"></view>
+
+    <view class='tel'>
+      <text >手机号：12345678910</text>
+      <input class='tel-1' bindinput='Input'></input>
+    </view>
+
+    <view class="line-1"></view>
+
+    <view class='email'>
+      <text >邮箱地址：123@suda.edu.cn</text>
+      <input class='email-1' bindinput='Input'></input>
+    </view>
+
+    <view class="line-2"></view>
+
+  </view>
+
+</view>
+
+<view class="btn-area">
+  <navigator url="/page/navigate/navigate?title=navigate" hover-class="navigator-hover"></navigator>
+  <navigator url="../../redirect/redirect/redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover"></navigator>
+  <navigator url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover"></navigator>
+</view>

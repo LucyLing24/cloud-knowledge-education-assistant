@@ -1,0 +1,592 @@
+<view class='container'>
+
+<view class='selection'>
+  <view class='item'>
+    <view class='item-message'>
+      第一周
+    </view>
+  </view>
+</view>
+
+<view class='selection1'>
+  <view class='first'>
+    <view class='item1'>
+      <view class='item-message1'>
+        3月
+      </view>
+    </view>
+
+    <view class='item2'>
+      <view class='item-message2'>
+        周一
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周二
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周三
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周四
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周五
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周六
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+周日
+</view>
+</view>
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+1
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+2
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+3
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+4
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message3'>
+JX3-306
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+5
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+6
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+7 
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message3'>
+JSJ-408
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+8
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item3'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+9
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+10
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+11
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+<view class='second'>
+<view class='item1'>
+<view class='item-message1'>
+12
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+<view class='item2'>
+<view class='item-message2'>
+</view>
+</view>
+
+</view>
+
+</view>
+</view>

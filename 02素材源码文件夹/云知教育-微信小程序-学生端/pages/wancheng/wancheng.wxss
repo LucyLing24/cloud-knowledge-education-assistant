@@ -1,0 +1,46 @@
+.container{
+  height: 510px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-top: 0px;
+  justify-content: flex-start;
+
+}
+
+.selection{
+  height: 80px;
+  width: 280px;
+  margin-top: 20px;
+  background-color: white;
+  border: solid;
+  border-color: #8a8a8a;
+  border-width: 1.2px;
+}
+
+.item{
+  height: 20px;
+  width: 280px;
+  margin-top: 0px;
+}
+
+item1{
+  height: 40px;
+  width: 280px;
+  margin-top: 0px;
+}
+
+.text{
+  height: 20px;
+  width: 260px;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.text1{
+  height: 20px;
+  width: 260px;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-left: 10px;
+}

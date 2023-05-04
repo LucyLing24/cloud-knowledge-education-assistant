@@ -1,0 +1,8 @@
+Page{
+  background-color: #eee;
+}
+
+.line-0{
+    height: 1px;
+    background: lightgray;    
+}

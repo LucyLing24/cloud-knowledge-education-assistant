@@ -1,0 +1,20 @@
+<view class="contanier">
+  <view class="img">
+    <image class="log in" src="../../images/logo2.png" style='width: 85px;height: 85px;'>
+    </image>
+  </view>
+  <form bindsubmit="bindFormSubmit" bindreset="formReset">
+    <view class="textareaT2" name="userName">
+      <view class="itemView">工号：
+        <input name="userName" placeholder="请输入工号" />
+      </view>
+      <view class="lineV"></view>
+      <view class="itemView">密码：
+        <input type='password' name="userName" placeholder="请输入密码" bindinput="pasWInput" />
+      </view>
+    </view>
+    <button class="submitClick" formType="submit"> 登 录</button>
+  </form>
+  <view>{{tip}}</view>
+  <view>{{userName}}</view>
+</view>

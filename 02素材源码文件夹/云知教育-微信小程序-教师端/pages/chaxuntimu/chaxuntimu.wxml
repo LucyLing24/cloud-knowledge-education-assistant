@@ -1,0 +1,15 @@
+<view class='contanier'>
+  <view class='section-1' style='display:flex;'>
+    <image image src='../../images/chaxun.png' style='width: 30px;height: 30px;margin-left:55px;margin-top:15px;'></image>
+    <text style='color:#737373;font-size:15px;margin-left:10px;margin-top:17px;'>请选择您要查询的题目</text>
+  </view>
+
+  <view class='targetkecheng' style='display: flex;center;background-color:white;margin-top:10px;width:250px;height:30px;margin-left:35px;'>
+    <text style='color:#737373;font-size:15px;margin-left:5px;margin-top:4px;'>目标课程号</text>
+    <picker bindchange="bindPicker1Change" value="{{index1}}" range="{{array1}}">
+      <view class="weui-input" style='margin-left:25px;font-size:14px;margin-top:4px;color:black;align-items:center;'>{{array1[index1]}}</view>
+    </picker>
+  </view>
+
+
+</view>

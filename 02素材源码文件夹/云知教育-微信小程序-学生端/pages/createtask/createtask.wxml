@@ -1,0 +1,41 @@
+
+<view class='container'>
+
+<view class='selection'>
+  <view class='item2'>
+       <view class="item-texts">任务类型：
+        <input name="userName" placeholder="" bindinput="userNameInput" /></view> 
+    </view>
+
+      <view class='item2'>
+       <view class="item-texts">任务名称： 
+         <input name="userName" placeholder="" bindinput="userNameInput" />
+        </view>  
+           
+    </view>
+
+     <view class='item2'>
+       <view class="item-texts">开始时间：
+        <input name="userName" placeholder="" bindinput="userNameInput" />
+       </view>      
+    </view>
+
+      <view class='item2'>
+       <view class="item-texts">结束时间：
+        <input name="userName" placeholder="" bindinput="userNameInput" />
+       </view>      
+    </view>
+
+      <view class='item2'>
+       <view class="item-texts">任务内容：
+        <input name="userName" placeholder="" bindinput="userNameInput" />
+       </view>      
+    </view>
+
+  </view>
+
+  <view class='selection2'>
+<button class="submitClick" formType="submit" bindtap='Logsbutton'>确定</button>
+ </view>
+
+</view>

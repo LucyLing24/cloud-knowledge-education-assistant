@@ -1,0 +1,29 @@
+
+<view class='container'>
+
+<view class='selection'>
+  <view class='item2'>
+       <view class="item-texts">旧密码
+        <input name="userName" placeholder="" bindinput="userNameInput" /></view> 
+    </view>
+
+      <view class='item2'>
+       <view class="item-texts">新密码  
+         <input name="userName" placeholder="" bindinput="userNameInput" />
+        </view>  
+           
+    </view>
+
+     <view class='item2'>
+       <view class="item-texts">确认密码
+        <input name="userName" placeholder="" bindinput="userNameInput" />
+       </view>      
+    </view>
+
+  </view>
+
+  <view class='selection2'>
+<button class="submitClick" formType="submit" bindtap='Logsbutton'>确定</button>
+ </view>
+
+</view>

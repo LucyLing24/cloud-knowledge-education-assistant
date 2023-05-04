@@ -1,0 +1,63 @@
+<view class="container">
+ <view class='selection'>
+   
+ </view>
+    <view class='item' bindtap='Bindzhanghao'> 
+    <image src='/images/touxiang.png' class='images1'  />  
+   <text class="item-text">账号/昵称
+
+                           姓名</text>
+    </view>       
+    
+
+    <view class='selection1'>
+    </view>
+
+     <view class='item2'  bindtap='sextap'>
+       <text class="item-texts">性别</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+
+     <view class='item2'>
+       <text class="item-texts">学校</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    
+     <view class='item2'>
+       <text class="item-texts">学号</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+ 
+     <view class='item2' bindtap='phonetap'>
+       <text class="item-texts">手机号</text>
+         <image src='/images/xiangyou.png' class='message-images1' />
+    </view>
+
+ 
+     <view class='item2' bindtap='emailtap'>
+       <text class="item-texts">邮箱</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+  
+     <view class='item2' bindtap='pwdtap'>
+       <text class="item-texts">修改密码</text>
+         <image src='/images/xiangyou.png' class='message-images2' />
+    </view>
+
+ <view class='item2'>   
+       <text class="item-texts">设置</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+ <view class='selection2'>
+<button class="submitClick" formType="submit" bindtap='Logsbutton'>退出登录</button>
+ </view>
+
+
+    
+
+</view>

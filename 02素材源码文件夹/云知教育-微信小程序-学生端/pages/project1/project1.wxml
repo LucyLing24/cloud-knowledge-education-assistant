@@ -1,0 +1,35 @@
+<view class="container">
+ 
+    <view class='selection1'>
+    </view>
+
+     <view class='item1'  bindtap='projecttap'>
+       <text class="item-texts">课程信息</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+
+     <view class='item2' bindtap='keshitap' >
+       <text class="item-texts">课时安排</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+    
+     <view class='item2' bindtap='zhishidiantap'>
+       <text class="item-texts">知识点</text>
+         <image src='/images/xiangyou.png' class='message-images' />
+    </view>
+
+ 
+     <view class='item3' bindtap='phonetap'>
+       <text class="item-texts">综合练习</text>
+         <image src='/images/xiangyou.png' class='message-images1' />
+    </view>
+
+
+ 
+
+
+    
+
+</view>

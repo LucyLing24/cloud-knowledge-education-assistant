@@ -1,0 +1,52 @@
+Page{
+  background-color: #eee;
+}
+
+.store{
+  background-color: #06a6e4;
+  margin-top: 10px;
+  width:80px;
+  height: 30px;
+  border: 1px solid #99cccc;
+  border-radius: 5px;
+}
+
+.send{
+  background-color: #06a6e4;
+  margin-top: 10px;
+  width:80px;
+  height: 30px;
+  border: 1px solid #99cccc;
+  border-radius: 5px;
+}
+
+.line-0{
+    height: 10px;
+    background: lightgray;   
+}
+
+.line{
+    height: 1px;
+    background: lightgray;      
+}
+
+.input{
+  border-radius: 20rpx;
+  border-color: white;
+  height: 30px;
+  width: 250px;
+  background-color: #eee;
+  margin-left:10px;
+  font-size:14px;
+  margin-top:0px;
+}
+
+.weui-textarea{
+  border-radius: 20rpx;
+  border-color: white;
+  height: 100px;
+  background-color: #ffffff;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
